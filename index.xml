@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo Hero Theme</title>
+    <title>Home on 敏博充电官方网站</title>
     <link>/</link>
-    <description>Recent content in Home on Hugo Hero Theme</description>
+    <description>Recent content in Home on 敏博充电官方网站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Accounting</title>
-      <link>/services/accounting/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/services/accounting/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
     <item>
       <title>Fall Plaza</title>
       <link>/work/fall-plaza/</link>
@@ -26,6 +15,18 @@ Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque cla
       <guid>/work/fall-plaza/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+    </item>
+    
+    <item>
+      <title>高效充电</title>
+      <link>/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/accounting/</guid>
+      <description>我们提供按小时计费或固定费用的普通计费(We offer regular billing on an hourly or flat fee basis)设备由保险公司承保5000万元责任险,各功能部件采用模块化设计,超低功耗,维护便捷.对接智能管控平台,有效提高运营管理效率企业战略独家定制- 外观定制- 功率定制- 需求定制.设备由保险公司承保5000万元责任险,各功能部件采用模块化设计,超低功耗,维护便捷.对接智能管控平台,有效提高运营管理效率企业战略独家定制- 外观定制- 功率定制- 需求定制
+高效充电 匹配大功率
+设备由保险公司承保5000万元责任险 各功能部件采用模块化设计,超低功耗,维护便捷 对接智能管控平台,有效提高运营管理效率 定制化 企业战略独家定制
+外观定制 功率定制 需求定制 </description>
     </item>
     
     <item>
@@ -39,14 +40,13 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
-      <title>Tax Filing</title>
+      <title>人性化设计</title>
       <link>/services/tax-filing/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/services/tax-filing/</guid>
-      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
-Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?
-Imagine Assaracus victori petet femina mea haustos Sicaniam quibus agro magni In utque Troica pedum caelestia hunc tempto Gregibus certare tamen turbatque qui Patulis Veneris est expulit adversaque magnum mediaque Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit.</description>
+      <description>丰富感官和用户线下使用体验(Enrich the senses and offline user experience) 人性化设计7.0寸高粱触控屏,人机交互直观便捷多种启动及充电模式,满足各类用户习惯.手持充电枪射击,支持电子锁功能,安全便捷.大尺寸高粱触控屏,人机交互直观便捷多种启动及充电模式,满足各类用户习惯.手持充电枪射击,支持电子锁功能,安全便捷.
+人性化设计 7.0寸高粱触控屏,人机交互直观便捷 多种启动及充电模式,满足各类用户习惯 手持充电枪射击,支持电子锁功能,安全便捷 </description>
     </item>
     
     <item>
@@ -74,49 +74,51 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>/history/</guid>
-      <description>About Heading Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei.</description>
+      <description>About Heading 2021年6月:新疆敏博新能源科技发展有限公司成立.2021年8月:与新疆亚威光源电力设备安装有限公司达成战略合作2022年4月:合作小区增长至300个，服务网点增长至500个，目前已与高德、百度、支付宝等多个平台通过互联互通达成接入合作.预计2022年6月底之前:将所有服务网点接入乌鲁木齐市政府公众平台.
+新疆敏博新能源科技发展有限公司与新疆亚威光源电力设备安装有限公司达成战略合作.委托其对我公司在乌鲁木齐地区充换电业务的电力施工和设备安装。
+合作小区增长至300个，服务网点增长至500个，目前已与高德、百度、支付宝等多个平台通过互联互通达成接入合作.敏博公司，致力于成为新疆领先的智慧能源服务商。在国家倡导的“新基建”发展建设理念之下，聚焦细分领域的科技赋能。秉承“以客户满意为宗旨，为客户提供充电便利为己任，本着守信守诚守约”的核心价值观。
+联系我们 </description>
     </item>
     
     <item>
-      <title>Mergers</title>
+      <title>安全可靠</title>
       <link>/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>/services/mergers/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>敏博以安全可靠作为企业支撑和行为准则(Minbo takes safety and reliability as enterprise support and code of conduct)具备急停、过欠压、过流、温度异常等多重防护机制.IP54防护等级设计,可投放于户外露天环境.实时检测电枪温度,智能风冷系统.
+安全可靠 具备急停、过欠压、过流、温度异常等多重防护机制 IP54防护等级设计,可投放于户外露天环境 实时检测电枪温度,智能风冷系统 </description>
     </item>
     
     <item>
-      <title>Business Sales</title>
+      <title>投资运营</title>
       <link>/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>/services/business-sales/</guid>
-      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
-Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
+      <description>你永远可以相信敏博并投资(You can always trust Min Bo andinvest)运行采用高性能32位工业级处理器,关键器件冗余设计,辅助电源12V/24V可切换,适用于各类新能源车型.DC200-750V宽电压输出,输出功率随车辆自动调节.,采用高性能32位工业级处理器,关键器件冗余设计,辅助电源12V/24V可切换,适用于各类新能源车型.DC200-750V宽电压输出,输出功率随车辆自动调节.
+投资运营 采用高性能32位工业级处理器,关键器件冗余设计 辅助电源12V/24V可切换,适用于各类新能源车型 DC200-750V宽电压输出,输出功率随车辆自动调节 </description>
     </item>
     
     <item>
-      <title>Superannuation</title>
+      <title>应用场景广泛</title>
       <link>/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>/services/superannuation/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>广泛应用场景赋予敏博更加广泛的生命力(Extensive application scenarios give Minbo a wider range of vitality)公交充电站、住宅小区、工业园区、商业中心、高速服务区、公交充电站、住宅小区、工业园区、商业中心、高速服务区
+适用场景 公交充电站、住宅小区、工业园区、商业中心、高速服务区</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
+      <title>稳定并持续优化</title>
       <link>/services/business-advisory/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>/services/business-advisory/</guid>
-      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+      <description>硬件功能稳定软件系统持续优化更新,保持活力.(continuously optimized and updated to maintain vitality)此系列充电桩采用落体式设计,框架稳定,功能配置齐全,整机功率根据模组灵活配置,多个终端独立设计互不干扰,有好的人际交互界面方便用户操作使用.
+框架稳定 此系列充电桩采用落体式设计,框架稳定,功能配置齐全,整机功率根据模组灵活配置,多个终端独立设计互不干扰,有好的人际交互界面方便用户操作使用.
+模块化设计 方便设备长期维护,是一款适合大中型新能源充电建站需求的高效直流充电设备.</description>
     </item>
     
   </channel>
