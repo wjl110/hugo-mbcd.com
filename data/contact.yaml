@@ -1,0 +1,31 @@
+
+email: '442897065@qq.com'
+phone: |
+  131-9980-8386、
+  135-7989-2759
+
+businessName: 'minbo'
+address: 
+  新疆乌鲁木齐市·米东区黄渠路123号
+hours:
+  - day: 星期一
+    open: 上午8:30
+    close: 下午5:00
+  - day: 星期二
+    open: 上午8:30
+    close: 下午5:00
+  - day: 星期三
+    open: 上午8:30
+    close: 下午5:00
+  - day: 星期四
+    open: 上午8:30
+    close: 下午5:00
+  - day: 星期五
+    open: 上午8:30
+    close: 下午5:00
+  - day: 星期六
+    open: 非工作时间
+    close:
+  - day: 星期日
+    open: 非工作时间
+    close:
